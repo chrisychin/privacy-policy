@@ -11,7 +11,7 @@ FocusNow is a productivity tool designed to help users build deep focus habits u
 
 3. Privacy & data
 
-The App does not require an account, does not collect personal information, and does not connect to external servers. Any data you create within the App is stored locally on your device only and is never transmitted to us or any third party.
+The App does not require an account, does not collect personal information, and only connects to RevenueCat to make network calls for payment, and entitlement access checks. Any data you create within the App is stored locally on your device only and is never transmitted to us or any third party.
 
 4. License & permitted use
 

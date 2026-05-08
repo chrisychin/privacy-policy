@@ -13,8 +13,8 @@ We do not collect, store, or share any personal information or user data.
 Since we do not collect any data, we do not use your information in any way.
 
 ## Third-Party Services
-
-This app does not use any third-party services that collect user data.
+                                                                                                                            
+This app uses RevenueCat to process in-app purchases. RevenueCat may collect device identifiers and purchase history to facilitate transactions. See RevenueCat's privacy policy: https://www.revenuecat.com/privacy    
 
 ## Data Storage
 
