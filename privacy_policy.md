@@ -2,7 +2,7 @@
 
 **Effective Date:** 2026-04-05
 
-Thank you for using FocusNow.
+Thank you for using FocusTiger.
 
 ## Information We Collect
 
